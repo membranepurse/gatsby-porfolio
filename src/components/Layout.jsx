@@ -4,7 +4,6 @@ import posed, { PoseGroup } from 'react-pose'
 import shortid from 'shortid'
 import { fadeIn } from './atoms/Transitions'
 import Typekit from './atoms/Typekit'
-import HostnameCheck from './atoms/HostnameCheck'
 import Header from './organisms/Header'
 import Footer from './organisms/Footer'
 import styles from './Layout.module.css'
@@ -37,7 +36,6 @@ export default function Layout({ children, location }) {
   return (
     <>
       <Typekit />
-      <HostnameCheck allowedHosts={allowedHosts} />
 
       <PoseGroup animateOnMount={process.env.NODE_ENV !== 'test' && true}>
         <RoutesContainer
