@@ -1,40 +1,40 @@
 {
   "basics": {
-    "name": "Matthias Kretschmann",
+    "name": "Sager Brown-Bryant",
     "label": "Designer & Developer",
     "picture": "../src/images/avatar.jpg",
-    "email": "m@kretschmann.io",
-    "website": "https://matthiaskretschmann.com",
+    "email": "sager.brown@gmail.com",
+    "website": "https://sagerbrownbryant.com",
     "summary": "",
     "profiles": [
       {
         "network": "Blog",
-        "url": "https://kremalicious.com"
+        "url": "https://sagerbrownbryant.com"
       },
       {
         "network": "Twitter",
-        "username": "kremalicious",
-        "url": "https://twitter.com/kremalicious"
+        "username": "Sager",
+        "url": "https://twitter.com/sagerbrown"
       },
       {
         "network": "GitHub",
-        "username": "kremalicious",
-        "url": "https://github.com/kremalicious"
+        "username": "solvedsager",
+        "url": "https://github.com/solvedsager"
       },
       {
         "network": "Dribbble",
-        "username": "kremalicious",
-        "url": "https://dribbble.com/kremalicious"
+        "username": "Sager",
+        "url": "https://dribbble.com/solvedsager"
       },
       {
         "network": "Keybase",
-        "username": "kremalicious",
-        "url": "https://keybase.io/kremalicious"
+        "username": "Sager",
+        "url": "https://keybase.io/solvedsager"
       }
     ],
     "location": {
-      "city": "Berlin",
-      "countryCode": "DE"
+      "city": "Austin",
+      "countryCode": "TX"
     }
   },
   "work": [
