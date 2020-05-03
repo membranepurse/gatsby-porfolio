@@ -98,7 +98,7 @@
   description: >
     While working for Imperial, I decided to revamp their landing site. The site is fully responsive and friendly to Google bots. 
     
-    Collects quota request and contact information, then adds information to a MailChimp mailing list.
+    Collects quota request and contact information, then adds information to a MailChimp mailing list.  
 
   techstack:
     - Illustrator
