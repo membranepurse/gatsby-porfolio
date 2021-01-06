@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@loadable/component": "^5.12.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "file-saver": "^2.0.2",
     "gatsby": "^2.20.28",
     "gatsby-image": "^2.3.4",
